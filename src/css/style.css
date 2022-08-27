@@ -50,6 +50,7 @@ p{
     color: #A5A5A5;
     font-size: 18px;
     margin-bottom: 10px;
+    text-align: justify;
 }
 
 h3{
@@ -75,31 +76,31 @@ h5{
     font-weight: 600;
 }
 
-.cabecalho{
+.navbar{
     width: 100%;
     padding: 15px;
     border-bottom: 1px solid #F5F5F5;
 }
 
-.cabecalho ul{
+.navbar ul{
     padding: 0;
     width: 100%;
 }
 
-.cabecalho ul li{
+.navbar ul li{
     display: inline;
     float: right;
     margin-left: 25px;
 }
 
-.cabecalho a{
+.navbar a{
     color: #A5A5A5;
     text-decoration: none;
     font-size: 16px;
     font-weight: 600;
 }
 
-.cabecalho ul li a:hover{
+.navbar ul li a:hover{
     color: #C2959C;
     font-style: italic;
 }
@@ -200,7 +201,7 @@ header{
 
 #contato p{
     color: #A5A5A5;
-    font-size: 21px;
+    font-size: 17px;
     margin-bottom: 15px;
     display: flex;
     flex-direction: column;
@@ -223,7 +224,7 @@ header{
 
 #contato .redes img{
     width: 35px;
-    margin-left: 16px;
+    padding: 5px;
 }
 
 /* FOOTER */

@@ -1,0 +1,35 @@
+.navbar{
+    max-width: 500px;
+    height: 40px;
+    padding: 5px;
+}
+
+.navbar ul li{
+    display: inline;
+    float:left;
+}
+
+.banner-inicio .imagem{
+    height: 75%;
+}
+
+.imagem img{
+    width: 95%;
+}
+
+.cont{
+    padding: 25px;
+}
+
+.container-proj img{
+    width: 95%;
+}
+
+.texto-centro{
+    left: 48%;
+    font-size: 15px;
+}
+
+footer{
+    height: 28px;
+}
